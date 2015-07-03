@@ -1,0 +1,24 @@
+{
+  "name": "home_automation_server_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lightningkite/home-automation-server.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lightningkite/home-automation-server/issues"
+  },
+  "homepage": "https://github.com/lightningkite/home-automation-server",
+  "dependencies": {
+    "body-parser": "^1.13.1",
+    "cradle": "^0.6.9",
+    "express": "^4.13.0"
+  }
+}
